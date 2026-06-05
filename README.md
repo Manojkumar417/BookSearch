@@ -1,1 +1,1 @@
-# Manojrepo
+A simple Java application that allows users to search for books by Book ID and Author Name. This project demonstrates basic Java programming concepts, including object-oriented programming, user input handling, and search functionality. 📚☕🚀
